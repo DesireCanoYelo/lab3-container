@@ -1,0 +1,13 @@
+Midiendo el tiempo de ejecucion de los programas k-mers.cpp
+Start
+Start
+
+real	0m26,633s
+user	0m26,469s
+sys	0m0,005s
+Midiendo el tiempo de ejecucion para los programas k-mer.py
+Start
+
+real	11m3,485s
+user	10m56,186s
+sys	0m0,037s
