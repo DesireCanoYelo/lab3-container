@@ -1,3 +1,4 @@
+
 Midiendo el tiempo de ejecucion de los programas k-mers.cpp
 Start
 Start
@@ -11,3 +12,20 @@ Start
 real	11m3,485s
 user	10m56,186s
 sys	0m0,037s
+
+Midiendo el tiempo de ejecucion de los programas k-mer.cpp lanzando Singularity
+
+Start
+Start
+
+real	0m26,839s
+user	0m26,256s
+sys	0m0,482s
+
+Midiendo el tiempo de jecucion para los programas k.mer.py lanzando Singularity
+
+Start
+
+real	8m11,991s
+user	8m6,023s
+sys	0m0,684s
